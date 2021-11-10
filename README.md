@@ -23,7 +23,7 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/swift.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/ruby-on-rails.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/ruby-programming-language.png"/>
 </p>
 
 #### Profile views counter
