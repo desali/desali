@@ -4,7 +4,7 @@
 
 - I'm  **Roller** 
 - About me :- **Backend developer** | **Automator**
-- Currently practicing **Managing projects**
+- Currently practicing **Golang**
 - Willing to contribute more and more in **Open Source Projects**
 
 
