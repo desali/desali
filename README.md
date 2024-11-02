@@ -11,8 +11,6 @@
 ### Feel Free to Contact me.....
 
 <p align="center">
-	<a href="https://github.com/desali"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
- 	<a href="https://www.linkedin.com/in/sultansailaubayev/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 <!-- 	<a href="https://www.facebook.com/sultan.sailaubayev/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a> -->
 <!--	<a href="https://t.me/sallymelon"><img alt="telegram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>-->
 </p>
